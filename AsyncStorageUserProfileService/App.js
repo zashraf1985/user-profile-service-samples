@@ -1,8 +1,8 @@
 import React from 'react';
-import LocalStorage from './local_storage';
+import AsyncStorageSample from './async_storage_sample';
 
 const App: () => React$Node = () => {
-  return <LocalStorage />;
+  return <AsyncStorageSample />;
 };
 
 export default App;
