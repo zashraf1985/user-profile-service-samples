@@ -1,0 +1,15 @@
+{
+  "name": "user-profile-service-kv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@optimizely/optimizely-sdk": "^3.4.1",
+    "kv-storage-polyfill": "^2.0.0"
+  }
+}
